@@ -44,11 +44,27 @@
 	</dict>
 	<dict>
 		<key>Name</key>
-		<string>Icon-Small-50.png</string>
+		<string>Icon-72@2x.png</string>
 		<key>Size</key>
-		<integer>50</integer>
+		<integer>144</integer>
 		<key>Tag</key>
 		<integer>202</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Icon-Small-50.png</string>
+		<key>Size</key>
+		<string>50</string>
+		<key>Tag</key>
+		<string>203</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Icon-Small-50@2x.png</string>
+		<key>Size</key>
+		<string>100</string>
+		<key>Tag</key>
+		<string>204</string>
 	</dict>
 </array>
 </plist>
