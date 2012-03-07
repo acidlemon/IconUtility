@@ -5,9 +5,11 @@ The app resizes images into the following iPhone/iPad related icon size;
 * Icon.png - 57x57 pixels iPhone app icon.
 * Icon@2x.png - 114x114 pixels iPhone app in high resolution.
 * Icon-72.png - 72x72 pixels iPad icon.
+* Icon-72@2x.png - 144x144 pixels iPad icon in high resolution.
 * Icon-Small.png - 29x29 pixels iPhone settings icon.
 * Icon-Small@2x.png - 58x58 pixels iPhone settings icon in high resolution.
 * Icon-Small-50.png - 50x50 iPad settings icon.
+* Icon-Small-50@2x.png - 100x100 iPad settings icon in high resolution.
 
 h2. Related articles
 
